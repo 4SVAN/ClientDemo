@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/myComponents/MenuBar.qml</file>
+        <file>qml/myFunction.js</file>
+        <file>qml/myComponents/MenuListRect.qml</file>
+        <file>qml/HomePage.qml</file>
+        <file>qml/myComponents/MenuDelegate.qml</file>
+        <file>qml/LoginPage.qml</file>
+        <file>qml/myComponents/ClickButton.qml</file>
+        <file>qml/myPages/LogOutput.qml</file>
+        <file>qml/myPages/FtpLoginPage.qml</file>
+        <file>qml/myComponents/HomeInfoBar.qml</file>
+        <file>qml/myComponents/MyProgressBar.qml</file>
+        <file>qml/myPages/FtpDownloadPage.qml</file>
+    </qresource>
+</RCC>
